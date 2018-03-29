@@ -1,0 +1,6 @@
+Design Parking Lot :
+Assumption : 
+  Parking lot has fixed no of parking space for Bike, Car and truck .
+  If Bike parking is full it can be parked into Car/Truck parking space if free. Car can be parked to Truck Parking space .
+  ParkingLotTestClient.java is the test client from where you can test. 
+Pattern used : Factory pattern .   
